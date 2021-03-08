@@ -44,14 +44,14 @@ This is an attempt to collate research papers relating to the Racket ecosystem o
 To add a new publication create a PR to add a new file to the @tt{papers} folder with the following text
 
 @codeblock|{
-#lang at-exp s-exp "bib.rkt"
-@title{Typed Dataspace Actors}
-@author{Caldwell, Garnock-Jones, Felleisen}
-@date{2020}
-@location{Journal of Functional Programming}
-@url{https://www2.ccs.neu.edu/racket/pubs/cgjf-jfp20.pdf}
-@category{paper}
-@note{Also see the actual JFP version: http://dx.doi.org/10.1017/S0956796820000246}
+  #lang at-exp s-exp "bib.rkt"
+  @title{Typed Dataspace Actors}
+  @author{Caldwell, Garnock-Jones, Felleisen}
+  @date{2020} 
+  @location{Journal of Functional Programming}
+  @url{https://www2.ccs.neu.edu/racket/pubs/cgjf-jfp20.pdf}
+  @category{paper}
+  @note{Also see the actual JFP version: http://dx.doi.org/10.1017/S0956796820000246}
 }|
 
 

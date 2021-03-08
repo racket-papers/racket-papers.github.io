@@ -59,10 +59,10 @@
 
         (define ref
           (para
-           (bold (hyperlink l-url l-title)) (linebreak)
-           (elem l-author) (linebreak)
-           (elem l-location) ", " (elem l-date) (linebreak)
-           (elem l-category) (linebreak)
-           (elem l-note) (linebreak))
+           (bold (hyperlink l-url l-title)) ", "
+           (elem l-author) ", "
+           (italic l-location) ", " (elem l-date) 
+           "[" (elem l-category) "] Note: " 
+           (smaller l-note))
           ))]))
 

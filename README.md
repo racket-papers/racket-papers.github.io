@@ -31,23 +31,24 @@ Thank you to all the Racketeers.
 ## 3. Papers
 
 **[Typed Dataspace
-Actors](https://www2.ccs.neu.edu/racket/pubs/cgjf-jfp20.pdf)** Caldwell,
-Garnock-Jones, Felleisen Journal of Functional Programming, 2020 paper
-Also see the actual JFP version:
+Actors](https://www2.ccs.neu.edu/racket/pubs/cgjf-jfp20.pdf)**,
+Caldwell, Garnock-Jones, Felleisen, _Journal of Functional Programming_,
+2020\[paper\] Note: Also see the actual JFP version:
 http://dx.doi.org/10.1017/S0956796820000246
 
 **[Adding Interactive Visual Syntax to Textual
-Code](https://www2.ccs.neu.edu/racket/pubs/oopsla20-abf.pdf)** Andersen,
-Ballantyne, Felleisen OOPSLA 2020, 2020 paper
+Code](https://www2.ccs.neu.edu/racket/pubs/oopsla20-abf.pdf)**,
+Andersen, Ballantyne, Felleisen, _OOPSLA 2020_, 2020\[paper\] Note:
 
 **[Adding Interactive Visual Syntax to Textual
-Code\(Video\)](https://youtu.be/8htgAxJuK5c)** Andersen, Ballantyne,
-Felleisen OOPSLA 2020, 2020 video
+Code\(Video\)](https://youtu.be/8htgAxJuK5c)**, Andersen, Ballantyne,
+Felleisen, _OOPSLA 2020_, 2020\[video\] Note:
 
 **[Macros for Domain-Specific
-Languages](http://design.cs.iastate.edu/splash20/oopsla20/oopsla20main-p625-p.pdf)**
-Ballantyne, King, Felleisen OOPSLA2020-SPLASH2020, 2020 paper
+Languages](http://design.cs.iastate.edu/splash20/oopsla20/oopsla20main-p625-p.pdf)**,
+Ballantyne, King, Felleisen, _OOPSLA2020-SPLASH2020_, 2020\[paper\]
+Note:
 
 **[Dependent Type Systems as
-Macros](https://www2.ccs.neu.edu/racket/pubs/popl20-cbtb.pdf)** Chang,
-Ballantyne, Turner, Bowman POPL, 2020 paper PLT-TR-2010-1
+Macros](https://www2.ccs.neu.edu/racket/pubs/popl20-cbtb.pdf)**, Chang,
+Ballantyne, Turner, Bowman, _POPL_, 2020\[paper\] Note: PLT-TR-2010-1

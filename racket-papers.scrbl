@@ -64,6 +64,5 @@ Thank you to all the Racketeers.
 
 @(for/list ([file (get-paper-details papers-path)]) @get-ref[file])
 
-@;itemlist[@(for/list ([file (get-paper-details papers-path)]) @item{@get-ref[file])})]
 
 

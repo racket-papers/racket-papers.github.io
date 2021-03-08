@@ -58,15 +58,11 @@
         ...
 
         (define ref
-          (elem
+          (para
            (bold (hyperlink l-url l-title)) (linebreak)
            (elem l-author) (linebreak)
-           (elem l-location) (linebreak)
-           (elem l-date) (linebreak)
+           (elem l-location) ", " (elem l-date) (linebreak)
            (elem l-category) (linebreak)
-           (elem l-note) (linebreak)
-           (linebreak)
-           (linebreak)
-           (linebreak))
+           (elem l-note) (linebreak))
           ))]))
 
